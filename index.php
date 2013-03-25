@@ -128,7 +128,7 @@
 		</div>
 		<div class="service float_left third equal_margins">
 			<h4>High Availability </h4>
-			<p class="icon uptime">Garantiramo serversku dostupnost vaših projekata 99.9%; u protivnom vračamo novce bez pitanja. </p>
+			<p class="icon uptime"> We guarantee the availability of your server projects, 99.9%; otherwise, we return the money without question. </p>
 			
 		</div>
 		<div class="service float_left third">
@@ -139,17 +139,17 @@
 		<div class="clear"></div>
 		<div class="service float_left third">
 			<h4>Cheap Domains </h4>
-			<p class="icon renewal">Osigurajte svoju prisutnost na Internetu registracijom domene za sadašnje ili buduće potrebe vašeg poduzeća ili projekta.</p>
+			<p class="icon renewal">Ensure your presence on the internet domain registration for current or future needs of your company or project.</p>
 			
 		</div>
 		<div class="service float_left third equal_margins">
 			<h4>Insanely Fast </h4>
-			<p class="icon space">Specijalnost nam je wordpress platforma te za nju nudimo najbrze solucije hostanja. Probajte nas besplatno 14 dana. </p>
+			<p class="icon space"> Our Specialization wordpress platform and for her we offer the fastest solution to hosting. Try us free for 14 days. </p>
 			
 		</div>
 		<div class="service float_left third">
 			<h4>Security </h4>
-			<p class="icon secure">Garantiramo Vam sigurnost o kojoj se mi brinemo. Da bi osigurali visok stadij sigurnosti na serverima morat ćete najaviti šta očekujete od nas. </p>
+			<p class="icon secure"> We guarantee the safety of which we care. To ensure a high stage of security on servers you will need to announce what you expect from us. </p>
 			
 		</div>
 		<div class="clear"></div>
@@ -182,7 +182,7 @@
 									<li><strong>Mail</strong> Access</li>							
 									<li><strong>High</strong> Security</li>		
 									<li><strong>100+</strong> Dizajna Tema</li>							
-									<li><strong>24/7</strong> Podrška</li>		
+									<li><strong>24/7</strong> Support</li>		
 									<li class="no_border"><a class="center order button" href="#">Order</a></li>
 								</ul>
 							
@@ -196,7 +196,7 @@
 									<li><strong>Mail</strong> Access</li>							
 									<li><strong>High</strong> Security</li>		
 									<li><strong>Custom</strong> Design na zahtjev</li>							
-									<li><strong>24/7</strong> Podrška</li>		
+									<li><strong>24/7</strong> Support</li>		
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>
 							</ul>
 						</li>
@@ -209,7 +209,7 @@
 									<li><strong>Mail</strong> Access</li>							
 									<li><strong>High</strong> Security</li>		
 									<li><strong>Custom</strong> Design na zahtjev</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>		
 							</ul>
 							<img src="images/bestseller.png" alt="bestseller"  />
@@ -244,7 +244,7 @@
 									 <li><strong>Mail/FTP</strong> Access</li>							
 									 <li><strong>Velika</strong> Security</li>		
 									 <li><strong>Virtualmin</strong> Panel</li>							
-									 <li><strong>24/7</strong> Podrška</li>		
+									 <li><strong>24/7</strong> Support</li>		
 									<li class="no_border"><a class="center order button" href="#">Order</a></li>
 								</ul>
 							
@@ -258,7 +258,7 @@
 									 <li><strong>Mail/FTP</strong> Access</li>							
 									 <li><strong>Velika</strong> Security</li>		
 									 <li><strong>Virtualmin</strong> Panel</li>							
-									 <li><strong>24/7</strong> Podrška</li>	
+									 <li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>
 							</ul>
 							<img src="images/bestseller.png" alt="bestseller"  />
@@ -272,7 +272,7 @@
 									 <li><strong>Mail/FTP</strong> Access</li>							
 									 <li><strong>Velika</strong> Security</li>		
 									 <li><strong>Virtualmin</strong> Panel</li>							
-									 <li><strong>24/7</strong> Podrška</li>	
+									 <li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>		
 							</ul>
 						</li>
@@ -285,7 +285,7 @@
 									 <li><strong>Mail/FTP</strong> Access</li>							
 									 <li><strong>Velika</strong> Security</li>		
 									 <li><strong>Virtualmin</strong> Panel</li>							
-									 <li><strong>24/7</strong> Podrška</li>	
+									 <li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>	
 							</ul>
 						</li>
@@ -304,7 +304,7 @@
 									<li><strong>20GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>1TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>		
+									<li><strong>24/7</strong> Support</li>		
 									<li class="no_border"><a class="center order button" href="#">Order</a></li>
 								</ul>
 							
@@ -318,7 +318,7 @@
 									<li><strong>40GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>3TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>		
+									<li><strong>24/7</strong> Support</li>		
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>
 							</ul>
 							<img src="images/bestseller.png" alt="bestseller"  />
@@ -332,7 +332,7 @@
 									<li><strong>60GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>4TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>		
 							</ul>
 							
@@ -346,7 +346,7 @@
 									<li><strong>80GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>5TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="http://www.wpbox.eu/ssc/submitticket.php?step=2&deptid=2&pk_campaign=VPS-PRO-KONTAKT">Kontakt</a></li>	
 							</ul>
 						</li>
@@ -379,7 +379,7 @@
 									<li><strong>2 x 3TB SATA RAID1</strong> HDD</li>							
 									<li><strong>1 GBit</strong> Mreža</li>
 									<li><strong>Intel VT</strong> Virtualizacija</li>							
-									<li><strong>24/7</strong> Podrška</li>	
+									<li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>
 							</ul>
 						</li>
@@ -392,7 +392,7 @@
 									<li><strong>2 x 750GB SATA RAID1</strong> HDD</li>							
 									<li><strong>1 GBit</strong> Mreža</li>
 									<li><strong>Intel VT</strong> Virtualizacija</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>		
 							</ul>
 							<img src="images/bestseller.png" alt="bestseller"  />
@@ -407,7 +407,7 @@
 									<li><strong>2 x 3TB SATA RAID1</strong> HDD</li>							
 									<li><strong>1 GBit</strong> Mreža</li>
 									<li><strong>Intel VT</strong> Virtualizacija</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>	
 							</ul>
 						</li>
@@ -426,7 +426,7 @@
 									<li><strong>480GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>8TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>	
+									<li><strong>24/7</strong> Support</li>	
 									<li class="no_border"><a class="center order button" href="#">Order</a></li>
 								</ul>
 							
@@ -440,7 +440,7 @@
 									<li><strong>640GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>9TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>	
+									<li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>
 							</ul>
 						</li>
@@ -453,7 +453,7 @@
 									<li><strong>960GB SSD</strong> HDD</li>							
 									<li><strong>Root</strong> Pristup</li>		
 									<li><strong>10TB</strong> Bandwith</li>							
-									<li><strong>24/7</strong> Podrška</li>	
+									<li><strong>24/7</strong> Support</li>	
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>		
 							</ul>
 
@@ -468,7 +468,7 @@
 									<li><strong>2 x 3TB SATA RAID1</strong> HDD</li>							
 									<li><strong>1 GBit</strong> Mreža</li>
 									<li><strong>Intel VT</strong> Virtualizacija</li>							
-									<li><strong>24/7</strong> Podrška</li>
+									<li><strong>24/7</strong> Support</li>
 								<li class="no_border"><a class="center order button" href="#">Order</a></li>	
 							</ul>
 							<img src="images/bestseller.png" alt="bestseller"  />							
